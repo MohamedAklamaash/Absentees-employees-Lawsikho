@@ -1,0 +1,5 @@
+myenv/
+.env*
+*.env
+*.csv
+Course Anchors-Teachers List - Employee Data.csv
